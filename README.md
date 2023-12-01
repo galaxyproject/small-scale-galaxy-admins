@@ -6,6 +6,7 @@ However, it is strongly advised to add your SQL code to https://github.com/galax
 
 ### who we are
 
-Our home page: https://galaxyproject.org/projects/small-scale-admins/
+Our home page: https://galaxyproject.org/projects/small-scale-admins/<br>
+our mailing list: https://lists.galaxyproject.org/lists/small-scale-admins.lists.galaxyproject.org/
 
 Altough, the main target group are Galaxy admins of small scale installations, aka 'non-usegalaxy.*', we welcome any contribution.
